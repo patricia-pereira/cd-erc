@@ -1,0 +1,7 @@
+no emotion
+anger
+disgust
+fear
+happiness
+sadness
+surprise

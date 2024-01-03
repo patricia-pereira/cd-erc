@@ -1,0 +1,7 @@
+neutral
+fearful-sad-disappointed
+dissatisfied-disliking
+apologetic
+abusive
+excited-happy-anticipating
+satisfied-liking
